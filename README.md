@@ -8,4 +8,4 @@ Skills: Java/C++
 
 ![Profile views](https://gpvc.arturio.dev/brandon0824)  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=brandon0824&show_icons=true)
