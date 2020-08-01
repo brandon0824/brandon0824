@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Brandon Ng.
-I am a postgraduate student major in CS.
+I am a postgraduate student majoring in CS.
 
-Skills: Java/C++
-
-🔭 I’m currently working on Shanghai  
-🌱 I’m currently learning Spring  
+🔭 I’m currently working in Shanghai.  
+💻 BackEnd Developer Skills:Java/c++
+📝 Blog Here: [Brandon Space](https://brandonng.tech)  
+📫 Mail: brandonng@foxmail.com  
 
 ![Profile views](https://gpvc.arturio.dev/brandon0824)  
 
