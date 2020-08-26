@@ -2,7 +2,7 @@
 I am a postgraduate student majoring in CS.
 
 🔭 I’m currently working in Shanghai.  
-💻 BackEnd Developer Skills:Java/C++  
+💻 BackEnd Developer Skills: Java/C++  
 📝 Blog Here: [Brandon Space](https://brandonng.tech)  
 📫 Mail: brandonng@foxmail.com  
 
