@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Brandon Ng.
-I am a postgraduate student majoring in CS.
 
-🔭 I’m currently working in Shanghai.  
+🔭 I’m a postgraduate student currently najoring CS in Shanghai.  
 💻 BackEnd Developer Skills: [`Java`] | [`JavaScript`]  
 📝 Blog Here: [Brandon Space](https://brandonng.tech)  
 📫 Mail: brandonng@foxmail.com  
