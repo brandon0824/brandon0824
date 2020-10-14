@@ -11,4 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact)](https://github.com/brandon0824)  
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
