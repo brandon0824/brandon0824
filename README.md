@@ -15,8 +15,8 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact)](https://github.com/brandon0824)  
--->
 
+<!--
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact">
+-->
