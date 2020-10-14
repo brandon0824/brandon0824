@@ -8,10 +8,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/brandon0824)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact)](https://github.com/brandon0824)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact)](https://github.com/brandon0824)  
 
- <!-- waka-box start -->
- ```text
- 
- ```
- <!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
