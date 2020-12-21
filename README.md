@@ -1,4 +1,6 @@
+<!--
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=brandon0824&show_icons=true&count_private=true&hide_title=true">
+-->
 
 ### Hi there 👋, my name is Brandon Ng.
 
