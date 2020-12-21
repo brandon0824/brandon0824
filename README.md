@@ -2,6 +2,8 @@
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=brandon0824&show_icons=true&count_private=true&hide_title=true">
 -->
 
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact">
+
 ### Hi there 👋, my name is Brandon Ng.
 
 🌱 Currently an postgraduate majoring CS.  
@@ -21,7 +23,9 @@ CSV      11 mins         ▓░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact)](https://github.com/brandon0824)  
+-->
 
 <!--
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact">
