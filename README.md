@@ -16,7 +16,7 @@
 ### Coding Status Last Week
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 30 mins    █████████████████████████   99.93 % 
+
 ```
 <!--END_SECTION:waka-->
 
