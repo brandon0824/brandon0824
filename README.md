@@ -6,7 +6,7 @@
 
 ### Hi there 👋, my name is Brandon Ng.
 
-![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/128?logoColor=white%26project=%26recentMS=0%26showProject=false)  
+![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/128?logoColor=white%26project=%26recentMS=0%26showProject=false)  
 🌱 Currently an postgraduate majoring CS.  
 💻 BackEnd Developer Skills: [`Java`] | [`Python`]  
 📝 Blog Here: [Brandon Space](https://brandonng.tech)  
