@@ -16,9 +16,10 @@
 ### Coding Status Last Week
 <!--START_SECTION:waka-->
 ```text
-Python   3 hrs 51 mins   ████████████████████████░   96.42 % 
-JSON     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Python   3 hrs 57 mins   ████████████████████▓░░░░   83.25 % 
+Other    34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+YAML     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JSON     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 <!--END_SECTION:waka-->
 
