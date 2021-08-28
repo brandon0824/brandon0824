@@ -16,10 +16,10 @@
 ### Coding Status Last Week
 <!--START_SECTION:waka-->
 ```text
-Other                      1 hr 3 mins     ████████▓░░░░░░░░░░░░░░░░   34.81 % 
-Nginx configuration file   55 mins         ███████▓░░░░░░░░░░░░░░░░░   30.49 % 
-Python                     45 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 % 
-YAML                       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Other                      1 hr 3 mins     █████████░░░░░░░░░░░░░░░░   35.58 % 
+Nginx configuration file   55 mins         ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Python                     41 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.12 % 
+YAML                       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 ```
 <!--END_SECTION:waka-->
 
