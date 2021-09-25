@@ -20,6 +20,10 @@ Python   23 mins         ██████████████████�
 ```
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0824&layout=compact)](https://github.com/brandon0824)  
 -->
