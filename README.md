@@ -21,7 +21,9 @@ Python   23 mins         ██████████████████�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
+```text
 <!--END_SECTION:waka-->
 
 <!--
