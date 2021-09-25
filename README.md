@@ -13,7 +13,6 @@
 📫 Mail: brandonng@foxmail.com  
 :newspaper: You can find me in Telegram [@BrandonNg](https://t.me/BrandonNg24).  
 
-### Coding Status Last Week
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
