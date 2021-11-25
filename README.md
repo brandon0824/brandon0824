@@ -45,18 +45,18 @@ Sunday       24 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 24/11/2021
+ Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
 
 <!--
