@@ -14,7 +14,7 @@
 :newspaper: You can find me in Telegram [@BrandonNg](https://t.me/BrandonNg24).  
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10255%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--28900%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -45,18 +45,20 @@ Sunday       24 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.0%
+Python                   25 mins             ███████████████████░░░░░░   78.85% 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+VS Code                  31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.0%
+Linux                    31 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 
 <!--
