@@ -14,24 +14,27 @@
 :newspaper: You can find me in Telegram [@BrandonNg](https://t.me/BrandonNg24).  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.0%
+Python                   5 hrs 26 mins       ████████████████████░░░░░   80.93% 
+CSV                      1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.07%
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+VS Code                  6 hrs 43 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.0%
+Linux                    6 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/05/2022 16:09:41 UTC
+ Last Updated on 07/05/2022 16:09:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
