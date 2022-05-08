@@ -14,7 +14,6 @@
 :newspaper: You can find me in Telegram [@BrandonNg](https://t.me/BrandonNg24).  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
