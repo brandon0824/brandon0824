@@ -9,9 +9,9 @@
 ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/128?logoColor=white%26project=%26recentMS=604800000%26showProject=false)  
 🌱 Currently an postgraduate majoring CS.  
 💻 BackEnd Developer Skills: [`Java`] | [`Python`]  
-📝 Blog Here: [Brandon Space](https://brandonng.tech)  
+📝 Blog: [Brandon Space](https://brandonng.tech)  
 📫 Mail: brandonng@foxmail.com  
-:newspaper: You can find me in Telegram [@BrandonNg](https://t.me/BrandonNg24).  
+:newspaper: Telegram: [@BrandonNg](https://t.me/BrandonNg24)  
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
