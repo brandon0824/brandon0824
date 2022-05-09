@@ -13,7 +13,7 @@
 :newspaper: Telegram: [@BrandonNg](https://t.me/BrandonNg24)  
 
 <!--START_SECTION:waka-->
-
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,7 +33,7 @@ Linux                    56 mins             ███████████�
 ```
 
 
- Last Updated on 08/05/2022 16:09:20 UTC
+ Last Updated on 09/05/2022 08:15:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
