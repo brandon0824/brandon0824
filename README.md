@@ -15,8 +15,6 @@
 ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/128?logoColor=white%26project=%26recentMS=604800000%26showProject=false)  
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,7 +33,7 @@ Linux                    23 mins             ███████████�
 ```
 
 
- Last Updated on 04/08/2022 17:32:38 UTC
+ Last Updated on 04/08/2022 17:39:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
