@@ -15,8 +15,24 @@
 ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/128?logoColor=white%26project=%26recentMS=604800000%26showProject=false)  
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 14/09/2022 16:13:51 UTC
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JSON                     1 min               █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  1 min               █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    1 min               █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 15/09/2022 16:13:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
