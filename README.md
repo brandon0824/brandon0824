@@ -1,8 +1,7 @@
 <!--
-<img  align="right" src="https://github-readme-stats-brandon0824.vercel.app/api?username=brandon0824&show_icons=true&count_private=true&hide_title=true">
+<img  align="left" src="https://github-readme-stats-brandon0824.vercel.app/api?username=brandon0824&show_icons=true&count_private=true&hide_title=true&theme=radical">
 -->
-
-<img  align="right" src="https://github-readme-stats-brandon0824.vercel.app/api/top-langs/?username=brandon0824&layout=compact">
+<img  align="right" src="https://github-readme-stats-brandon0824.vercel.app/api/top-langs/?username=brandon0824">
 
 ### Hi there 👋, my name is Brandon Ng.
 
