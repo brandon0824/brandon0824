@@ -7,7 +7,6 @@
 
 🌱 Currently an postgraduate majoring CS.  
 💻 BackEnd Developer Skills: [`Java`] | [`Python`]  
-📝 Blog: [Brandon Space](https://brandonng.tech)  
 📫 Mail: brandonng@foxmail.com  
 📰 Telegram: [@BrandonNg](https://t.me/BrandonNg24)  
 
