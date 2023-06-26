@@ -11,7 +11,7 @@
 📫 Mail: brandonng@foxmail.com  
 📰 Telegram: [@BrandonNg](https://t.me/BrandonNg24)  
 
-![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/128?logoColor=white%26project=%26recentMS=604800000%26showProject=false)  
+![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D128%26project%3D%26in%3D604800000)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
