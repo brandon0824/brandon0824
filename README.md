@@ -14,6 +14,8 @@
 ![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D128%26project%3D%26in%3D604800000)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -30,7 +32,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/07/2023 17:09:40 UTC
+ Last Updated on 22/07/2023 17:13:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
