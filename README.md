@@ -17,7 +17,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -27,11 +27,10 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 
- Last Updated on 21/07/2023 16:10:23 UTC
+ Last Updated on 22/07/2023 08:28:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
