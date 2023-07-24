@@ -17,15 +17,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      35 mins             ██████████░░░░░░░░░░░░░░░   38.11 % 
+Java                     32 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
+YAML                     24 mins             ███████░░░░░░░░░░░░░░░░░░   27.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/07/2023 10:25:12 UTC
+ Last Updated on 24/07/2023 01:40:53 UTC
 <!--END_SECTION:waka-->
