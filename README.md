@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Brandon Ng.
 
-🌱 Currently a programmer with Java/Spring as the main technology stack.  
+🌱 A programmer with Java/Spring as the main technology stack.  
 💻 BackEnd Developer Skills: [`Java`] | [`Python`]  
 📝 Blog: [Brandon Space](https://brandonng.tech)  
 📫 Mail: brandonng@foxmail.com  
