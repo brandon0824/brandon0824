@@ -4,7 +4,7 @@
 
 🌱 A programmer with Java/Spring as the main technology stack.  
 💻 BackEnd Developer Skills: [`Java`] | [`Python`]  
-📝 Blog: [Brandon Space](https://brandonng.tech)  
+📝 Blog: [Brandon Space](https://blog.brandonng.cc)  
 📫 Mail: brandonng@foxmail.com  
 📰 Telegram: [@BrandonNg](https://t.me/BrandonNg24)  
 
