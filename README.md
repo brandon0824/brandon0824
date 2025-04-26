@@ -8,6 +8,7 @@
 📫 Mail: brandonng@foxmail.com  
 📰 Telegram: [@BrandonNg](https://t.me/BrandonNg24)  
 
+[![wakatime](https://wakatime.com/badge/user/940cafbf-f9d5-4b24-9a07-19bb072f52bb.svg)](https://wakatime.com/@940cafbf-f9d5-4b24-9a07-19bb072f52bb)
 ![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D128%26project%3D%26in%3D604800000)
 
 <!--START_SECTION:waka-->
