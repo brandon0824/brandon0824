@@ -18,15 +18,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 hrs 14 mins       █████████████░░░░░░░░░░░░   53.80 % 
+XML                      1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Docker                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Java Properties          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            5 hrs 7 mins        █████████████████████░░░░   84.92 % 
+VS Code                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/02/2026 16:27:17 UTC
+ Last Updated on 26/02/2026 16:20:32 UTC
 <!--END_SECTION:waka-->
