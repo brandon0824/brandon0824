@@ -18,22 +18,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     10 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Other                    8 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-XML                      3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JSON                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Java Properties          1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Java                     10 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.35 % 
+Other                    8 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+XML                      3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Java Properties          1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 56 mins      ████████████████░░░░░░░░░   63.33 % 
-VS Code                  8 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-Zed                      3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+IntelliJ IDEA            21 hrs 17 mins      █████████████████░░░░░░░░   66.64 % 
+VS Code                  8 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Zed                      2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Mac                      34 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/05/2026 16:21:15 UTC
+ Last Updated on 17/05/2026 16:22:40 UTC
 <!--END_SECTION:waka-->
