@@ -12,27 +12,6 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D128%26minutes%3D10080)](https://codetime.dev)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     20 hrs 47 mins      ███████████████░░░░░░░░░░   59.56 % 
-Java Properties          4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-XML                      4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Properties               2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-
-🔥 Editors: 
-IntelliJ IDEA            28 hrs 57 mins      █████████████████████░░░░   82.99 % 
-VS Code                  4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Zed                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-
-💻 Operating System: 
-Mac                      34 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/05/2026 17:08:03 UTC
+ Last Updated on 28/05/2026 17:18:34 UTC
 <!--END_SECTION:waka-->
