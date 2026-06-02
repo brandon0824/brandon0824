@@ -18,23 +18,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     15 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.81 % 
-Java Properties          6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-XML                      4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Other                    2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Properties               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Java                     13 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.33 % 
+Java Properties          5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+XML                      5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Other                    2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Properties               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔥 Editors: 
-IntelliJ IDEA            27 hrs 17 mins      ████████████████████░░░░░   78.00 % 
-VS Code                  4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Zed                      2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Antigravityide           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Exec Wakatime            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+IntelliJ IDEA            23 hrs 58 mins      ██████████████████░░░░░░░   71.62 % 
+VS Code                  6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Zed                      2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Exec Wakatime            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Antigravityide           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Mac                      34 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2026 18:03:10 UTC
+ Last Updated on 02/06/2026 17:36:05 UTC
 <!--END_SECTION:waka-->
