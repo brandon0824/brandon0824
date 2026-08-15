@@ -20,47 +20,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     14 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.64 % 
-XML                      8 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Java Properties          7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Properties               3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Python                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Java                     11 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   33.12 % 
+XML                      8 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Java Properties          6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Properties               2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Python                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-IntelliJ IDEA            23 hrs 12 mins      ██████████████░░░░░░░░░░░   57.13 % 
-Codex Vscode             8 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Antigravity IDE          4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-VS Code                  3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Zed                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+IntelliJ IDEA            18 hrs 34 mins      █████████████░░░░░░░░░░░░   53.57 % 
+Codex Vscode             8 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Antigravity IDE          3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+VS Code                  2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Zed                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 💻 Operating System: 
-Mac                      40 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 39 mins (70.52%)
+⏱ AI Coding Time: 26 hrs 40 mins (76.91%)
 
-✍️ 3,549 lines written by AI, 986 lines written by hand (78.26% AI-written)
+✍️ 3,366 lines written by AI, 953 lines written by hand (77.93% AI-written)
 
-🔤 29,504,691 Input Tokens, 1,174,256 Output Tokens
+🔤 26,661,910 Input Tokens, 1,067,921 Output Tokens
 
-💵 $242.57 Estimated AI Cost This Week
+💵 $223.18 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 447 AI Prompts
+🧠 48 AI Sessions, 416 AI Prompts
 
-GPT                      4,130 lines         ████████████████████████░   95.32 % 
-Gemini                   203 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+GPT                      3,969 lines         ████████████████████████░   95.64 % 
+Gemini                   181 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.26% of written lines came from AI
-📚 Verbose Prompter — average 2,837 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 30.45% of changed lines were hand-edited
+🤖 AI-Driven — 77.93% of written lines came from AI
+📚 Verbose Prompter — average 2,853 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 30.22% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 16:50:03 UTC
+ Last Updated on 15/08/2026 16:21:25 UTC
 <!--END_SECTION:waka-->
