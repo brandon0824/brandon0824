@@ -21,20 +21,20 @@
 
 💬 Programming Languages: 
 Java                     9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.00 % 
-XML                      7 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+XML                      7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
 Java Properties          5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
 Properties               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 39 mins      ████████████████░░░░░░░░░   65.63 % 
-Antigravity IDE          7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+IntelliJ IDEA            18 hrs 39 mins      ████████████████░░░░░░░░░   65.64 % 
+Antigravity IDE          7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
 Codex Vscode             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 Zed                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Mac                      28 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -48,18 +48,18 @@ Mac                      28 hrs 26 mins      ███████████�
 
 💵 $8.40 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 273 AI Prompts
+🧠 39 AI Sessions, 272 AI Prompts
 
 Gemini                   1,329 lines         █████████████████░░░░░░░░   66.95 % 
 GPT                      656 lines           ████████░░░░░░░░░░░░░░░░░   33.05 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 73.68% of written lines came from AI
-📝 Concise Prompter — average 344 characters per prompt
+📝 Concise Prompter — average 346 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 41.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/08/2026 16:20:57 UTC
+ Last Updated on 23/08/2026 16:22:25 UTC
 <!--END_SECTION:waka-->
