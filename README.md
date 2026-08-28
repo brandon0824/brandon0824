@@ -12,7 +12,7 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D128%26minutes%3D10080)](https://codetime.dev)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-391%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,47 +20,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Java Properties          4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-XML                      2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Other                    2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Markdown                 2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Markdown                 4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Other                    3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+TypeScript               3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Java                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Java Properties          2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 34 mins      ███████████░░░░░░░░░░░░░░   45.69 % 
-Codex Vscode             6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Antigravity IDE          4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-VS Code                  1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Zed                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Codex Vscode             13 hrs 34 mins      █████████████░░░░░░░░░░░░   50.90 % 
+IntelliJ IDEA            5 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+VS Code                  4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Zed                      1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Antigravity IDE          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 48 mins (74.25%)
+⏱ AI Coding Time: 22 hrs 1 min (82.6%)
 
-✍️ 2,535 lines written by AI, 425 lines written by hand (85.64% AI-written)
+✍️ 4,905 lines written by AI, 140 lines written by hand (97.22% AI-written)
 
-🔤 9,791,134 Input Tokens, 339,418 Output Tokens
+🔤 21,850,444 Input Tokens, 753,156 Output Tokens
 
-💵 $36.67 Estimated AI Cost This Week
+💵 $83.47 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 286 AI Prompts
+🧠 49 AI Sessions, 485 AI Prompts
 
-GPT                      2,412 lines         █████████████████████░░░░   83.90 % 
-Gemini                   463 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+GPT                      5,387 lines         █████████████████████████   99.89 % 
+Gemini                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.64% of written lines came from AI
-📚 Verbose Prompter — average 2,348 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 23.27% of changed lines were hand-edited
+🤖 AI-Driven — 97.22% of written lines came from AI
+📚 Verbose Prompter — average 4,289 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 4.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 16:46:25 UTC
+ Last Updated on 28/08/2026 00:44:58 UTC
 <!--END_SECTION:waka-->
