@@ -20,44 +20,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Bash                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Python                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-CSS                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+TypeScript               1 hr 56 mins        ████████████░░░░░░░░░░░░░   48.53 % 
+Python                   59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+CSS                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 46 mins       ███████████████████░░░░░░   74.55 % 
-IntelliJ IDEA            1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Codex Vscode             3 hrs 56 mins       █████████████████████████   98.07 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 22 mins (81.18%)
+⏱ AI Coding Time: 4 hrs (100.0%)
 
-✍️ 1,126 lines written by AI, 4 lines written by hand (99.65% AI-written)
+✍️ 920 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,728,751 Input Tokens, 187,116 Output Tokens
+🔤 866,395 Input Tokens, 116,893 Output Tokens
 
-💵 $14.39 Estimated AI Cost This Week
+💵 $9.00 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 126 AI Prompts
+🧠 8 AI Sessions, 76 AI Prompts
 
-GPT                      1,202 lines         █████████████████████████   100.00 % 
+GPT                      995 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📄 Detailed Prompter — average 721 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.99% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 281 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 18:49:12 UTC
+ Last Updated on 05/09/2026 17:55:06 UTC
 <!--END_SECTION:waka-->
