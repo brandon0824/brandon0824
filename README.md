@@ -20,41 +20,36 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    44 mins             █████████████████████░░░░   84.56 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-shell script             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Other                    40 mins             ████████████████████████░   94.37 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-Antigravity IDE          41 mins             ████████████████████░░░░░   78.23 % 
-Zed                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Codex Vscode             3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Antigravity IDE          42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (100.0%)
+⏱ AI Coding Time: 42 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.38 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
-
-GPT                      13 lines            █████████████████████████   100.00 % 
+🧠 6 AI Sessions, 19 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 39 characters per prompt
+📝 Concise Prompter — average 61 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 18:06:07 UTC
+ Last Updated on 13/09/2026 18:32:39 UTC
 <!--END_SECTION:waka-->
