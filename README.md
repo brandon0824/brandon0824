@@ -12,7 +12,7 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D128%26minutes%3D10080)](https://codetime.dev)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-402%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-402%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,21 +20,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 36 mins       ███████████████████████░░   91.64 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Markdown                 2 hrs 8 mins        ███████████████████████░░   90.04 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 50 mins       █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 23 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (95.43%)
+⏱ AI Coding Time: 2 hrs 15 mins (94.56%)
 
 ✍️ 26 lines written by AI, 14 lines written by hand (65.0% AI-written)
 
@@ -42,17 +45,17 @@ Mac                      2 hrs 50 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 52 AI Prompts
+🧠 6 AI Sessions, 42 AI Prompts
 
 Gemini                   28 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 65.0% of written lines came from AI
-📝 Concise Prompter — average 75 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 33.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/09/2026 20:16:01 UTC
+ Last Updated on 22/09/2026 19:34:14 UTC
 <!--END_SECTION:waka-->
