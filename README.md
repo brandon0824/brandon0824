@@ -20,42 +20,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 8 mins        ███████████████████████░░   90.04 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 2 hrs 21 mins       ████████████████░░░░░░░░░   64.09 % 
+Stylus                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+EJS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 23 mins       █████████████████████████   100.00 % 
+Antigravity IDE          3 hrs 41 mins       █████████████████████████   100.00 % 
 IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (94.56%)
+⏱ AI Coding Time: 3 hrs 33 mins (96.48%)
 
-✍️ 26 lines written by AI, 14 lines written by hand (65.0% AI-written)
+✍️ 302 lines written by AI, 14 lines written by hand (95.57% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 42 AI Prompts
+🧠 8 AI Sessions, 64 AI Prompts
 
-Gemini                   28 lines            █████████████████████████   100.00 % 
+Gemini                   311 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.0% of written lines came from AI
-📝 Concise Prompter — average 78 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 33.33% of changed lines were hand-edited
+🤖 AI-Driven — 95.57% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 4.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 19:34:14 UTC
+ Last Updated on 23/09/2026 19:26:32 UTC
 <!--END_SECTION:waka-->
