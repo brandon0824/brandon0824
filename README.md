@@ -20,41 +20,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               54 mins             ████████████████░░░░░░░░░   65.01 % 
-Vue                      18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Image (png)              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 24 mins        █████████████████████████   100.00 % 
+Antigravity Desktop      1 min               █████████████████████████   99.37 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      1 hr 24 mins        █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
-✍️ 9,688 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,140,215 Input Tokens, 269,010 Output Tokens
+🔤 50,184 Input Tokens, 2,607 Output Tokens
 
-💵 $7.49 Estimated AI Cost This Week
+💵 $0.76 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Gemini                   9,688 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 24 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 19:49:34 UTC
+ Last Updated on 21/10/2026 19:55:12 UTC
 <!--END_SECTION:waka-->
