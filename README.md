@@ -12,7 +12,7 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D128%26minutes%3D10080)](https://codetime.dev)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-408%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-409%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,44 +20,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-nvmrc                    19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-shell script             7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Bash                     1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   37.23 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+nvmrc                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 11 mins        █████████████████░░░░░░░░   67.33 % 
-VS Code                  24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Zed                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+VS Code                  1 hr 27 mins        ████████████░░░░░░░░░░░░░   48.33 % 
+Antigravity IDE          1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.57 % 
+Zed                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Antigravity Desktop      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (87.83%)
+⏱ AI Coding Time: 2 hrs 12 mins (73.26%)
 
-✍️ 12 lines written by AI, 3 lines written by hand (80.0% AI-written)
+✍️ 12 lines written by AI, 11 lines written by hand (52.17% AI-written)
 
 🔤 988,717 Input Tokens, 78,460 Output Tokens
 
 💵 $3.49 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 21 AI Prompts
+🧠 12 AI Sessions, 35 AI Prompts
 
 Gemini                   12 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.0% of written lines came from AI
-📝 Concise Prompter — average 74 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 20.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 52.17% of written lines came from AI
+📝 Concise Prompter — average 55 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 93.44% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/10/2026 20:53:35 UTC
+ Last Updated on 27/10/2026 20:26:37 UTC
 <!--END_SECTION:waka-->
