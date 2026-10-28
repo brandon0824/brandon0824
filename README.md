@@ -20,17 +20,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   37.23 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-nvmrc                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Bash                     1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   37.22 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+nvmrc                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        ████████████░░░░░░░░░░░░░   48.33 % 
-Antigravity IDE          1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.57 % 
-Zed                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Antigravity Desktop      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+VS Code                  1 hr 28 mins        ████████████░░░░░░░░░░░░░   48.91 % 
+Antigravity IDE          1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.51 % 
+Zed                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Antigravity Desktop      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 💻 Operating System: 
 Mac                      3 hrs               █████████████████████████   100.00 % 
@@ -39,25 +39,25 @@ Mac                      3 hrs               ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (73.26%)
+⏱ AI Coding Time: 2 hrs 11 mins (72.64%)
 
 ✍️ 12 lines written by AI, 11 lines written by hand (52.17% AI-written)
 
-🔤 988,717 Input Tokens, 78,460 Output Tokens
+🔤 953,945 Input Tokens, 75,950 Output Tokens
 
-💵 $3.49 Estimated AI Cost This Week
+💵 $3.39 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 35 AI Prompts
+🧠 12 AI Sessions, 38 AI Prompts
 
 Gemini                   12 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 52.17% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
+📝 Concise Prompter — average 52 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 93.44% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 20:26:37 UTC
+ Last Updated on 28/10/2026 20:46:38 UTC
 <!--END_SECTION:waka-->
