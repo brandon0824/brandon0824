@@ -1,4 +1,4 @@
-<img  align="right" src="https://github-readme-stats-brandon0824.vercel.app/api/top-langs/?username=brandon0824&layout=compact">
+<img  align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brandon0824&layout=compact">
 
 ### Hi there 👋, my name is Brandon Ng.
 
