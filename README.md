@@ -12,7 +12,7 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D128%26minutes%3D10080)](https://codetime.dev)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-412%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-412%20hrs%2011%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,39 +20,36 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 38 mins        ████████████████████████░   94.38 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    57 mins             ███████████████████████░░   90.75 % 
+YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 🔥 Editors: 
-Zed                      1 hr 44 mins        █████████████████████████   99.46 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Zed                      1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (94.38%)
+⏱ AI Coding Time: 57 mins (90.75%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,245 Input Tokens, 92 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.01 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 25 AI Prompts
-
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 4 AI Sessions, 15 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 54 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 48 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/11/2026 22:29:11 UTC
+ Last Updated on 21/11/2026 21:26:58 UTC
 <!--END_SECTION:waka-->
