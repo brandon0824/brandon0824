@@ -20,22 +20,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    45 mins             ███████████████████░░░░░░   74.76 % 
-Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Other                    40 mins             ██████████████████░░░░░░░   72.32 % 
+Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   27.68 % 
 
 🔥 Editors: 
-Zed                      34 mins             ██████████████░░░░░░░░░░░   57.10 % 
-VS Code                  19 mins             ████████░░░░░░░░░░░░░░░░░   32.01 % 
-Antigravity Desktop      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+VS Code                  31 mins             ██████████████░░░░░░░░░░░   55.80 % 
+Zed                      17 mins             ████████░░░░░░░░░░░░░░░░░   32.25 % 
+Antigravity Desktop      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 
 💻 Operating System: 
-Mac                      1 hr 1 min          █████████████████████████   100.00 % 
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (85.65%)
+⏱ AI Coding Time: 46 mins (84.27%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -43,17 +43,17 @@ Mac                      1 hr 1 min          ███████████�
 
 💵 $0.19 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 17 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 58 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/11/2026 02:44:38 UTC
+ Last Updated on 25/11/2026 00:21:12 UTC
 <!--END_SECTION:waka-->
