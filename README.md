@@ -12,7 +12,7 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D128%26minutes%3D10080)](https://codetime.dev)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-412%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-412%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,30 +20,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    40 mins             ██████████████████░░░░░░░   72.32 % 
-Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Other                    2 hrs 12 mins       ██████████████████████░░░   87.76 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 🔥 Editors: 
-VS Code                  31 mins             ██████████████░░░░░░░░░░░   55.80 % 
-Zed                      17 mins             ████████░░░░░░░░░░░░░░░░░   32.25 % 
-Antigravity Desktop      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+VS Code                  1 hr 19 mins        █████████████░░░░░░░░░░░░   52.71 % 
+Zed                      1 hr 1 min          ██████████░░░░░░░░░░░░░░░   40.84 % 
+Antigravity Desktop      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (84.27%)
+⏱ AI Coding Time: 2 hrs 22 mins (94.21%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 45,484 Input Tokens, 8,015 Output Tokens
+🔤 48,178 Input Tokens, 8,222 Output Tokens
 
-💵 $0.19 Estimated AI Cost This Week
+💵 $0.21 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 18 AI Prompts
+🧠 13 AI Sessions, 41 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -55,5 +55,5 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/11/2026 00:21:12 UTC
+ Last Updated on 25/11/2026 23:59:07 UTC
 <!--END_SECTION:waka-->
