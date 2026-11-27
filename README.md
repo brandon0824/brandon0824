@@ -20,40 +20,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        █████████████████████░░░░   82.98 % 
-Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Other                    1 hr 45 mins        █████████████████████░░░░   85.02 % 
+Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        ██████████████████░░░░░░░   73.30 % 
-Zed                      19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Antigravity Desktop      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+VS Code                  1 hr 19 mins        ████████████████░░░░░░░░░   64.51 % 
+Zed                      34 mins             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Antigravity Desktop      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 💻 Operating System: 
-Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 40 mins (91.95%)
+⏱ AI Coding Time: 1 hr 54 mins (92.92%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 45,484 Input Tokens, 8,015 Output Tokens
+🔤 49,240 Input Tokens, 9,734 Output Tokens
 
-💵 $0.20 Estimated AI Cost This Week
+💵 $0.22 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 32 AI Prompts
+🧠 10 AI Sessions, 31 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
+📝 Concise Prompter — average 69 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/11/2026 00:17:55 UTC
+ Last Updated on 27/11/2026 23:54:12 UTC
 <!--END_SECTION:waka-->
